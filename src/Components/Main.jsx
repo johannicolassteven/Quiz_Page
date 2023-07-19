@@ -58,8 +58,7 @@ const Wrapper = styled.section`
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  .quiz {
+    margin: 1rem;
   }
 
   .container h2 {
@@ -83,7 +82,7 @@ const Wrapper = styled.section`
   }
 
   .next-question{
-    background-color: white;
+    background-color: #03f9f1a3;
     color: black;
   }
 `;
