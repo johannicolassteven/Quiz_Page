@@ -113,6 +113,7 @@ const Wrapper = styled.section`
   .submit-btn {
     width: 100%;
     margin-top: 3rem;
+    color : white
   }
 `;
 
