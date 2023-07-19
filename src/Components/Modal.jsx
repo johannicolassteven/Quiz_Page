@@ -51,6 +51,10 @@ const Wrapper = styled.section`
     z-index: 999;
   }
 
+  .close-btn{
+    color: white;
+  }
+
   @media (min-width:992px) {
     .modal-container {
       width: 40%;
